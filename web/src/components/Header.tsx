@@ -1,9 +1,9 @@
 import React from "react";
 
-export default function Header() {
+export const Header = () => {
   return (
     <header>
       <div>social Icons</div>
     </header>
   );
-}
+};
